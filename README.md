@@ -236,4 +236,4 @@ Kodi Portable is the full free version with all features and updates included. T
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-20 18:00:10 UTC
+**Last updated:** 2026-09-20 21:11:00 UTC
